@@ -1,0 +1,12 @@
+{
+    "name":"spinners",
+    "version":"2",
+    "description":"spinners",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_popup":"spinners.html",
+        "default.icon":"logo.png"
+    
+    }
+    
+    }
